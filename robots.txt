@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://tonothan.github.io/canopy-rudpad
+
+# Sitemaps
+Sitemap: https://tonothan.github.io/canopy-rudpad/sitemap.xml
