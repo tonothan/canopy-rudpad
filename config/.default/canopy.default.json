@@ -1,6 +1,6 @@
 {
   "collection": "https://tonothan.github.io/collections/rudpad-collection.json",
-  "metadata": ["Year"],
+  "metadata": ["Year", "Author"],
   "locales": [
     {
       "config": "locales/en.json",
